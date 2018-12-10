@@ -25,6 +25,7 @@ class ViewController: UIViewController {
         print("test 3.1")
         print("test 3.2")
         print("test 3.3")
+        print("test 3.4")
     }
 
 }
