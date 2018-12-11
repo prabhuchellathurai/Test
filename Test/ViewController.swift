@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("r2")
         print("r3")
         print("r4")
+        print("r5")
     }
 
     func test() {
