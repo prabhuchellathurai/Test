@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     }
 
     func test() {
-        
+        print("y1")
     }
 
 }
