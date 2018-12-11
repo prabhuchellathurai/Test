@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("4.1")
+        print("4.2")
     }
 
     func test() {
