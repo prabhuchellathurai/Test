@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("r2")
         print("r3")
+        print("r4")
     }
 
     func test() {
