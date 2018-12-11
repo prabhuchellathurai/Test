@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("4.1")
         print("4.2")
         print("4.3")
+        print("4.4")
     }
 
     func test() {
