@@ -20,7 +20,7 @@ class ViewController: UIViewController {
 
     func test() {
         print("s1")
-        
+        print("s2")
     }
 
 }
