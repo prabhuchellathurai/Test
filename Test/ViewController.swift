@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     }
     
     func master() {
-        print("new")
+        print("new 1")
     }
     
     func kk() {
