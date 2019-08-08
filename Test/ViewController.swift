@@ -25,7 +25,7 @@ class ViewController: UIViewController {
     }
     
     func master() {
-        print("2")
+        print("3")
     }
 }
 
