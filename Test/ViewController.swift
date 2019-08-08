@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         print("s2")
         print("s3")
         print("s4")
+        print("Local")
     }
     
     func master() {
