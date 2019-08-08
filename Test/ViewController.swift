@@ -19,7 +19,6 @@ class ViewController: UIViewController {
     }
 
     func test() {
-        print("s1")
         print("s2")
         print("s3")
         print("s4")
@@ -28,6 +27,5 @@ class ViewController: UIViewController {
     func master() {
         
     }
-
 }
 
