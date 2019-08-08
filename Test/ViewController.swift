@@ -24,6 +24,10 @@ class ViewController: UIViewController {
         print("s3")
         print("s4")
     }
+    
+    func master() {
+        
+    }
 
 }
 
